@@ -1,5 +1,5 @@
 # Déclaration de variables
-Apprenons a déclarer une variable.
+Apprenons à déclarer une variable.
 ?[sur combien de bit est codé une variable int?]
 -[ ] 1
 -[ ] 8
