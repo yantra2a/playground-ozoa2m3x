@@ -2,3 +2,5 @@ title: Introduction au C#
 plan:
 - title: Bienvenue
   statement: markdowns/welcome.md
+- title: Déclaration de variables
+  statement: markdowns/part2.md
