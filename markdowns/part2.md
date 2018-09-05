@@ -1,2 +1,2 @@
-title: Déclaration de variables
-Apprenons a déclarer une variable
+# Déclaration de variables
+Apprenons a déclarer une variable.
